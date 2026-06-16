@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 Hi 👋, I'm Tapash Kumar
+**Preparing to become a Full Stack Web Developer**
 
-<!--
-**tapashkumar15/tapashkumar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email Me 👉 ✉️ **tapashkumarofficial123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:**Make Minor/Major And Company Based Projects**
+- 🌱 **I’m currently learning:** Full Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+Full Stack Developer in progress 🚀<br>Turning ideas into code | <br>Learning • Building • Growing |
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
