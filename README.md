@@ -15,5 +15,3 @@ Full Stack Developer in progress 🚀<br>Turning ideas into code | <br>Learning 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
