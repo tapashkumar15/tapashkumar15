@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Tapash Kumar
 **Preparing to become a Full Stack Web Developer**
 
-Email Me 👉 ✉️ **tapashkumarofficial123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **connect.tapashkumar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:**Make Minor/Major And Company Based Projects**
 - 🌱 **I’m currently learning:** Full Stack Web Development
