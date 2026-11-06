@@ -1,13 +1,9 @@
 # 💫 Hi 👋, I'm Tapash Kumar
 **Preparing to become a Full Stack Web Developer**
 
-Email Me 👉 ✉️ **connect.tapashkumar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **merge.tapash@gmail.com** For Collaboration/Project or Anything Else.🚀
 
-- 🔭 **I’m currently working on:**Make Minor/Major And Company Based Projects**
-- 🌱 **I’m currently learning:** Full Stack Web Development
-
-# 💫 About Me:
-Full Stack Developer in progress 🚀<br>Turning ideas into code | <br>Learning • Building • Growing |
+- 🔭 **I’m currently working on:**Make Minor/Major And Company Based Projects**✨️
 
 <!-- Snake Game Repo View -->
 
